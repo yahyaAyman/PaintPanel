@@ -1,7 +1,7 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX (Created by Gagandeep Bhangal) 
+ * @author groupXXX 
  * This class is used to add the panel to the right side of the PaintPanel which holds buttons to change thickness, colour, and background colour.
  */
 
