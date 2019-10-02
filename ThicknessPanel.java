@@ -1,7 +1,7 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX (Anthony made this)
+ * @author groupXXX
  * This class is used to create a panel with options to change the thickness of the stroke of shapes
  */
 
